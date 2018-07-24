@@ -1,0 +1,5 @@
+main: se.svenskminecraft.sova.Main
+name: Sova
+version: 1.0
+api-version: 1.13
+author: PadsCraft
